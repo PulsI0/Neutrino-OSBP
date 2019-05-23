@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Here is the versions supported by Security Updates and are certified **__Neutrino Secure__**
 
 | Version | Supported          |
 | ------- | ------------------ |
